@@ -1,0 +1,72 @@
+{
+  "hi": {
+    "feedRecV2": false,
+    "enableAds": false,
+    "continousPlayBack": true,
+    "enableRoller": true,
+    "webViewA": true,
+    "enable_interstitial_ad": true,
+    "enable_award_video_ad": true,
+    "enable_fb_account_kit": true
+  },
+  "ma": {
+    "feedRecV2": false,
+    "enableAds": false,
+    "continousPlayBack": true,
+    "enableRoller": true,
+    "webViewA": true,
+    "enable_interstitial_ad": true,
+    "enable_award_video_ad": true,
+    "enable_fb_account_kit": true
+  },
+  "ta": {
+    "feedRecV2": false,
+    "enableAds": false,
+    "continousPlayBack": true,
+    "enableRoller": true,
+    "webViewA": true,
+    "enable_interstitial_ad": true,
+    "enable_award_video_ad": true,
+    "enable_fb_account_kit": true
+  },
+  "te": {
+    "feedRecV2": false,
+    "enableAds": false,
+    "continousPlayBack": true,
+    "enableRoller": true,
+    "webViewA": true,
+    "enable_interstitial_ad": true,
+    "enable_award_video_ad": true,
+    "enable_fb_account_kit": true
+  },
+  "gu": {
+    "feedRecV2": false,
+    "enableAds": false,
+    "continousPlayBack": true,
+    "enableRoller": true,
+    "webViewA": true,
+    "enable_interstitial_ad": true,
+    "enable_award_video_ad": true,
+    "enable_fb_account_kit": true
+  },
+  "ka": {
+    "feedRecV2": false,
+    "enableAds": false,
+    "continousPlayBack": true,
+    "enableRoller": true,
+    "webViewA": true,
+    "enable_interstitial_ad": true,
+    "enable_award_video_ad": true,
+    "enable_fb_account_kit": true
+  },
+  "be": {
+    "feedRecV2": false,
+    "enableAds": false,
+    "continousPlayBack": true,
+    "enableRoller": true,
+    "webViewA": true,
+    "enable_interstitial_ad": true,
+    "enable_award_video_ad": true,
+    "enable_fb_account_kit": true
+  }
+}

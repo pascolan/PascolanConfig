@@ -1,0 +1,104 @@
+[
+{
+"i": 30000,
+"n": "আমার সরকার",
+"d":"Sarkar",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/1.png"
+},
+{
+"i": 30002,
+"n": "রাজনীতি",
+"d":"Politics",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/2.png"
+},
+{
+"i": 30017,
+"n": "বিজ্ঞান",
+"d":"vigyan",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/17.png"
+},
+{
+"i": 30016,
+"n": "আন্তর্জাতিক সম্পর্ক",
+"d":"internation",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/13.png"
+},
+{
+"i": 30003,
+"n": "প্রযুক্তিবিদ্যা",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/3.png"
+},
+{
+"i": 30012,
+"n": "ইতিহাস",
+"d":"history",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/7.png"
+},
+{
+"i": 30004,
+"n": "বিনোদন",
+"d":"movie",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/4.png"
+},
+{
+"i": 30005,
+"n": "স্পোর্টস জাম্প",
+"d":"game",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/5.png"
+},
+{
+"i": 30006,
+"n": "প্রেমের সম্পর্ক",
+"d":"love",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/6.png"
+},
+
+{
+"i": 30007,
+"n": "লেখালেখি করেছেন",
+"d":"study",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/8.png"
+},
+{
+"i": 30008,
+"n": "খাদ্য ধন",
+"d":"food",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/9.png"
+},
+{
+"i": 30009,
+"n": "লাইফস্টাইল",
+"d":"lifestyle",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/10.png"
+},
+{
+"i": 30009,
+"n": "ব্যাংক এবং আর্থিক",
+"d":"bank",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/11.png"
+},
+{
+"i": 30010,
+"n": "ব্যাংক এবং আর্থিক",
+"d":"bank",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/11.png"
+},
+{
+"i": 30013,
+"n": "UPSC",
+"d":"bank",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/15.png"
+},
+{
+"i": 30015,
+"n": "ধর্ম",
+"d":"bank",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/14.png"
+},
+{
+"i": 30011,
+"n": "কিছু অন্যরকম",
+"d":"other",
+"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/12.png"
+}
+]
