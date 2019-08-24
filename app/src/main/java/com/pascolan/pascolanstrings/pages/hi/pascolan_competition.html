@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang=hi>
+<html>
+
+<head>
+    <title>Pascolan • उत्तर प्रतियोगिता</title>
+    <link rel="icon" type="image/jpg"
+          href="https://lh3.googleusercontent.com/i8g2YOEdjSF1zoH4kVUgR5wzfMTsAOSKdejD7Xf3zbbu_-MTHRLCShOmBXi3tK-u46kg=s360-rw">
+
+    <meta charset="utf-8">
+    <meta name="description"
+          content="Pascolan is Question and Answer (Q&A) platform that helps Indian users to solve their problems using Voice/Audio as the medium of communication.">
+    <meta name="keywords"
+          content="Pascolan, India's Audio, Question Answer, Knowledge, India, General Knowldege, Education, पॉलिटिक्स,टेक्नोलॉजी,मनोरंजन,खेल कूद,प्यार / संबंध,इतिहास,पढ़ाई लिखाई,लाइफस्टाइल,बैंक और वित्तीय,अंतर्राष्ट्रीय सबंध,धर्म,UPSC,विज्ञान">
+    <link rel='search' type='application/opensearchdescription+xml'
+          href='https://pascolan.com/opensearch/description.xml' title='Pascolan'/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+    <!-- load angular -->
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <!-- Google Analytics -->
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109227949-1
+"></script>
+
+
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109227949-1');
+
+
+
+
+    </script>
+
+    <!-- End Google Analytics -->
+    <style>
+   .video-wrapper {
+    position: relative;
+}
+
+.video-wrapper > video {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.video-wrapper > video.has-media-controls-hidden::-webkit-media-controls {
+    display: none;
+}
+
+.video-overlay-play-button {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding: 10px calc(50% - 50px);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    opacity: 0.95;
+    cursor: pointer;
+    background-image: linear-gradient(transparent, #000);
+    transition: opacity 150ms;
+}
+
+.video-overlay-play-button:hover {
+    opacity: 1;
+}
+
+.video-overlay-play-button.is-hidden {
+    display: none;
+}
+    body{
+      background: #ECECEC
+    }
+    a:link {
+      color: #000000;
+    }
+
+    /* visited link */
+    a:visited {
+      color: #000000;
+    }
+  
+    /* mouse over link */
+    a:hover {
+      color: #000000;
+    }
+    .container {
+      width: 80%;
+      height: 100%;
+      padding: 10px;
+    }
+    .one {
+        
+        height: 100%;
+        background: red;
+        float: left;
+        word-wrap: break-word;
+    }
+    .two {
+        word-wrap: break-word;
+        
+        height: 100%;
+
+        overflow:hidden;
+
+    }
+    .dot {
+    height: 10px;
+    width: 10px;
+    background-color: #ff0000;
+    border-radius: 50%;
+    display: inline-block;
+    }
+ 
+    #trend_item {
+
+        -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0,0.15);
+        -webkit-box-shadow: 1px 2px 2px rgba(0, 0, 0, .15);
+        box-shadow: 1px 2px 2px rgba(0, 0, 0, .15);
+        padding-top: 4px;
+        margin-right: 10px;  
+        padding-right: 8px;
+        padding-left: 8px;
+        border-radius: 5px;
+        padding-bottom: 4px;
+        background: white;
+    }
+    .wrapper{
+    display:table;
+    width:auto;
+    position:relative;
+    width:50%;
+    }
+    #round_btn {
+        float: right;
+        -moz-box-shadow: 1px 1px 2px rgba(1, 1, 0,0.15);
+        -webkit-box-shadow: 1px 2px 2px rgba(1, 1, 0, .15);
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, .15);
+        padding-top: 4px;
+        margin-right: 10px;  
+        padding-right: 8px;
+        padding-left: 8px;
+        width: 80px;
+        border-radius: 14px;
+        border-color: #979797;
+        padding-bottom: 4px;
+        background: white;
+    }
+    #card {
+
+        -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0,0.15);
+        -webkit-box-shadow: 1px 2px 2px rgba(0, 0, 0, .15);
+        box-shadow: 1px 2px 2px rgba(0, 0, 0, .15);
+        padding-top: 4px;
+        margin-right: 10px;  
+        padding-right: 8px;
+        padding-left: 8px;
+        border-radius: 5px;
+        padding-bottom: 4px;
+        background: white;
+    }
+    .header {
+      z-index: 1000;
+      padding: 10px 16px;
+       -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0,0.15);
+        -webkit-box-shadow: 1px 2px 2px rgba(0, 0, 0, .15);
+      background: #fff;
+      color: #f1f1f1;
+    } 
+    .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%
+    }
+    .sticky + .content {
+      padding-top: 102px;
+    }
+    #content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
+}
+
+
+    </style>
+</head>
+<body ng-controller="mainController">
+
+<div class="header" id="myHeader">
+    <img style="margin-left: 10px"
+         src='https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/log_high_res.webp'
+         width="140px"/>
+
+</div>
+
+
+<div class="container-fluid">
+    <br>
+    <div class="row">
+        <div class="col-sm-4">
+
+        </div>
+        <div class="col-sm-4">
+
+        </div>
+        <div class="col-sm-4"></div>
+    </div>
+
+    <!--Next row-->
+    <div class="row">
+
+        <div class="col-sm-3">
+
+        </div>
+
+        <div class="col-sm-4">
+
+        </div>
+
+        <div id="card" style="margin:10px;padding:10px;margin-bottom: 5px">
+            <center>
+                <h3>Pascolan उत्तर प्रतियोगिता 2</h3>
+                23rd August - 15 September, 2019<br>
+                <img src='prize.png' width="200px"><br><br>
+                Pascolan उत्तर प्रतियोगिता 1 के बम्पर सफलता के बाद आपके सामने प्रस्तुत किया जा रहा है Pascolan प्रतियोगिता  2 <br>
+                आप सभी से अनुरोध है इस प्रतियोगिता में बढ़ चढ़कर हिस्सा लीजिए और इसे भी ज़बरदस्त सफल बनाइए<br><br>
+                <b>Prize:</b>
+                <br>
+
+                1st : ₹500<br>
+                2nd : ₹300<br>
+                3rd : ₹200<br>
+                4th : ₹50<br>
+                5th : ₹50<br>
+                6th : ₹50<br>
+                7th : ₹50<br>
+                8th : ₹50<br>
+                9th : ₹50<br>
+                10th : ₹50<br>
+
+            </center>
+            <b>Rules:</b><br>
+
+            1. कम्पटीशन सेक्शन में जाएं और प्रश्नों के उत्तर दें! <br>
+            2. <b><font color='red'>कम्पटीशन सेक्शन</font> में जिस उत्तर पर सबसे ज्यादा <b>लाइक</b> होगा,
+            उसी को आधार बनाकर <font color='red'>15 September </font>को विजेता घोषित किया जाएगा!</b> <br>
+            <b>Tip:</b><br>
+            बढ़िया जवाब डालें और उसको Whatsapp, Telegram, Facebook, फैमिली ग्रुप में शेयर करें और
+            दोस्तों को बोले की जवाब सुनकर लाइक करें!<br>
+            <hr>
+            पिछले प्रतियोगिता के विजेता<br><br>
+
+            Saurabh Rai, Kaushal Kumar Singh, Shivangi Pathak
+            <br>
+            किसी अन्य जानकारी के लिए हमें support@pascolan.com पर मेल करें!
+        </div>
+
+
+    </div>
+</div>
+
+
+<br>
+<center>
+    <font color="#979797" size="2px">
+        Copyright© Pascolan Private Limited
+    </font>
+</center>
+</footer>
+</body>
+<script>
+    window.onscroll = function() {myFunction()};
+
+    var header = document.getElementById("myHeader");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+            if (window.pageYOffset > sticky) {
+              header.classList.add("sticky");
+            } else {
+              header.classList.remove("sticky");
+            }
+          }
+          $(function(){
+      $("video").on("play", function() {
+          $("video").not(this).each(function(index, audio) {
+              audio.pause();
+          });
+      });
+
+
+
+</script>
+</html>

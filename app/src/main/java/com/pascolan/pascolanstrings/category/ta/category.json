@@ -1,104 +1,103 @@
 [
-{
-"i": 20000,
-"d": "sarkar",
-"n": "எனது அரசு",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/1.png"
-},
-{
-"i": 20003,
-"d": "politics",
-"n": "அரசியல்",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/2.png"
-},
-{
-"i": 20017,
-"d": "vigyan",
-"n": "அறிவியல்",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/17.png"
-},
-{
-"i": 20016,
-"d":"internation",
-"n": "சர்வதேச உறவுகள்",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/13.png"
-},
-{
-"i": 20004,
-"n": "தொழில்நுட்ப",
-"d": "tech",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/3.png"
-},
-{
-"i": 20012,
-"n": "வரலாறு",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/7.png"
-},
-{
-"i": 20002,
-"d": "films",
-"n": "திரைப்படங்கள்",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/4.png"
-},
-
-{
-"i": 20005,
-"n": "விளையாட்டு தாவல்",
-"d": "sports",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/5.png"
-},
-{
-"i": 20006,
-"n": "காதல் உறவு",
-"d": "love",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/6.png"
-},
-{
-"i": 20007,
-"n": "கல்வி எழுதுதல்",
-"d": "study",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/8.png"
-},
-{
-"i": 20014,
-"n": "உணவு புதையல்",
-"d": "food",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/9.png"
-},
-{
-"i": 20008,
-"n": "வாழ்க்கைமுறை",
-"d": "LIFESTYLE",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/10.png"
-},
-{
-"i": 20009,
-"n": "வங்கி மற்றும் நிதி",
-"d": "bank",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/11.png"
-},
-{
-"i": 20010,
-"n": "மதம்",
-"d": "dharm",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/14.png"
-},
-{
-"i": 20019,
-"n": "தமிழ்நாடு புகழ்",
-"d": "map",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/20019	.png"
-},
-{
-"i": 20011,
-"n": "யுபிஎஸ்சி",
-"d": "upsc",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/15.png"
-},
-{
-"i": 20018,
-"n": "ஏதோ வித்தியாசம்",
-"d": "other",
-"p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/12.png"
-}
+  {
+    "i": 20000,
+    "d": "sarkar",
+    "n": "எனது அரசு",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/1.png"
+  },
+  {
+    "i": 20003,
+    "d": "politics",
+    "n": "அரசியல்",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/2.png"
+  },
+  {
+    "i": 20017,
+    "d": "vigyan",
+    "n": "அறிவியல்",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/17.png"
+  },
+  {
+    "i": 20016,
+    "d": "internation",
+    "n": "சர்வதேச உறவுகள்",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/13.png"
+  },
+  {
+    "i": 20004,
+    "n": "தொழில்நுட்ப",
+    "d": "tech",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/3.png"
+  },
+  {
+    "i": 20012,
+    "n": "வரலாறு",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/7.png"
+  },
+  {
+    "i": 20002,
+    "d": "films",
+    "n": "திரைப்படங்கள்",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/4.png"
+  },
+  {
+    "i": 20005,
+    "n": "விளையாட்டு தாவல்",
+    "d": "sports",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/5.png"
+  },
+  {
+    "i": 20006,
+    "n": "காதல் உறவு",
+    "d": "love",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/6.png"
+  },
+  {
+    "i": 20007,
+    "n": "கல்வி எழுதுதல்",
+    "d": "study",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/8.png"
+  },
+  {
+    "i": 20014,
+    "n": "உணவு புதையல்",
+    "d": "food",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/9.png"
+  },
+  {
+    "i": 20008,
+    "n": "வாழ்க்கைமுறை",
+    "d": "LIFESTYLE",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/10.png"
+  },
+  {
+    "i": 20009,
+    "n": "வங்கி மற்றும் நிதி",
+    "d": "bank",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/11.png"
+  },
+  {
+    "i": 20010,
+    "n": "மதம்",
+    "d": "dharm",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/14.png"
+  },
+  {
+    "i": 20019,
+    "n": "தமிழ்நாடு புகழ்",
+    "d": "map",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/20019	.png"
+  },
+  {
+    "i": 20011,
+    "n": "யுபிஎஸ்சி",
+    "d": "upsc",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/15.png"
+  },
+  {
+    "i": 20018,
+    "n": "ஏதோ வித்தியாசம்",
+    "d": "other",
+    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/12.png"
+  }
 ]

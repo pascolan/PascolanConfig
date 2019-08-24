@@ -1,92 +1,88 @@
 [
   {
-    "i": 0,
-    "n": "मेरी सरकार",
+    "i": 40000,
+    "n": "ప్రభుత్వం",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/1.png"
   },
   {
-    "i": 2,
-    "n": "पॉलिटिक्स",
+    "i": 40002,
+    "n": "రాజకీయాలు",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/2.png"
   },
   {
-    "i": 17,
-    "n": "विज्ञान",
+    "i": 40017,
+    "n": "సైన్స్",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/17.png"
   },
+
   {
-    "i": 16,
-    "n": "अंतर्राष्ट्रीय सबंध",
-    "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/13.png"
-  },
-  {
-    "i": 3,
-    "n": "टेक्नोलॉजी",
+    "i": 40003,
+    "n": "టెక్నాలజీ",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/3.png"
   },
   {
-    "i": 12,
-    "n": "इतिहास",
+    "i": 40012,
+    "n": "చరిత్ర",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/7.png"
   },
   {
-    "i": 4,
-    "n": "मनोरंजन",
+    "i": 40004,
+    "n": "వినోదం",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/4.png"
   },
   {
-    "i": 5,
-    "n": "खेल कूद",
+    "i": 40005,
+    "n": "ఆట",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/5.png"
   },
   {
-    "i": 6,
-    "n": "प्यार  संबंध",
+    "i": 40006,
+    "n": "ప్రేమ",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/6.png"
   },
   {
-    "i": 7,
-    "n": "पढ़ाई लिखाई",
+    "i": 40007,
+    "n": "అధ్యయనాలు",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/8.png"
   },
   {
-    "i": 8,
-    "n": "खाना खज़ाना",
+    "i": 40008,
+    "n": "ఆహారం",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/9.png"
   },
   {
-    "i": 9,
-    "n": "लाइफस्टाइल",
+    "i": 40009,
+    "n": "లైఫ్స్టయిల్",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/10.png"
   },
   {
-    "i": 10,
-    "n": "बैंक और वित्तीय",
+    "i": 40010,
+    "n": "బ్యాంక్",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/11.png"
   },
   {
-    "i": 105,
+    "i": 40105,
     "n": "GK",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/105.png"
   },
   {
-    "i": 106,
-    "n": "सरकारी नौकरी",
+    "i": 40106,
+    "n": "ప్రభుత్వ ఉద్యోగం",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/106.png"
   },
   {
-    "i": 13,
+    "i": 400013,
     "n": "UPSC",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/15.png"
   },
   {
-    "i": 15,
-    "n": "धर्म",
+    "i": 40015,
+    "n": "మతం",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/14.png"
   },
   {
-    "i": 11,
-    "n": "कुछ अलग",
+    "i": 40011,
+    "n": "ఏదో భిన్నమైనది",
     "p": "https://d51md7wh0hu8b.cloudfront.net/assets/app/prod/images/category/12.png"
   }
 ]

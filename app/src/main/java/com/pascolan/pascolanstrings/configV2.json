@@ -53,10 +53,10 @@
   "randomFeed": true,
   "eFpFestival": false,
   "furl": "https://pbs.twimg.com/media/C6yaGROUwAAq81G.jpg",
-  "ps": "Pascolan ऐप के हो गए हैं अब 1 Lakh डाउनलोड, इस प्लेटफार्म से जुड़े रहने का आप सभी का बहुत बहुत धन्यवाद!",
-  "psi": "1 लाख डाउनलोड",
+  "ps": "<center><b>23rd August - 15 September, 2019</b></center><br>Pascolan उत्तर प्रतियोगिता 1 के बम्पर सफलता के बाद आपके समस्त प्रस्तुत किया जा रहा है Pascolan प्रतियोगिता  2 <br> <Br>आप सभी से अनुरोध है इस प्रतियोगिता में बढ़ चढ़कर हिस्सा लीजिए और इसे भी ज़बरदस्त सफल बनाइए",
+  "psi": "Pascolan उत्तर प्रतियोगिता 2",
   "eFp": true,
-  "psiU": "https://d51md7wh0hu8b.cloudfront.net/assets/downloads_100k.png",
+  "psiU": "https://pascolan-config.s3.us-east-2.amazonaws.com/assets/app/prod/images/category/9998.png",
   "df": false,
   "dn": false,
   "bl": "13mhd6hlajyydw6xp|13mhd6208jyrbh6pc|5c0b6df043255|13mhd673cjrkki6yv|13mhd6lcpjrgibq6w|13mhd6ee4jqnps04s|13mhd6ee4jqnrvn57",
@@ -70,7 +70,7 @@
   "videoH": 600,
   "videoW": 350,
   "locSubscribe": true,
-  "compId": 9999,
+  "compId": 9998,
   "compEnable": true,
   "enableClFeed": false,
   "enableClFeedNQ": false,
@@ -79,7 +79,7 @@
   "lmp": 1,
   "lkmp": 2,
   "cmp": 2,
-  "compText": "Saurabh Rai, Kaushal Kumar Singh,  Shivangi Pathak हैं Pascolan प्रतियोगिता 1.0 के विनर!",
+  "compText": "Pascolan उत्तर प्रतियोगिता-2,  23rd August - 15 September, 2019",
   "sF": "%s",
   "lan": [
     {
@@ -120,7 +120,7 @@
       "c": "te",
       "nE": "Telugu",
       "cc": "#48ACF0",
-      "live": false
+      "live": true
     },
     {
       "n": "ગુજરાતી",
@@ -139,6 +139,7 @@
       "live": false
     }
   ],
+  "spinVal": [1, 1, 2, 10, 50],
   "cat": [
     {
       "i": 0,
