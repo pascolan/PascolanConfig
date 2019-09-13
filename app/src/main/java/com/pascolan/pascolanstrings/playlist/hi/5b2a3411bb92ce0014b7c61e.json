@@ -1,0 +1,1107 @@
+{
+  "id": "5b2a3411bb92ce0014b7c61e",
+  "playlist_type": "episodes",
+  "title": "रामायण",
+  "description": "महान कलाकारों द्वारा वर्णित रामायण के महाकाव्य को सुनो",
+  "image_url": "https://du55c5n4y3f4m.cloudfront.net/Ramayan_Audioboom_3_2.jpg",
+  "episodes": {
+    "list": [
+      {
+        "id": "5bf0547e6278eb2639fb79cc",
+        "_id": "5bf0547e6278eb2639fb79cc",
+        "title": "Ep 1 - Ravan Ko Vedwati Ka Shrap",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197553.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488524154000,
+        "play_by": 1568375760135,
+        "url": "https://audioboom.com/posts/5668258.mp3?modified=1488524193&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 56,
+          "shareCount": 68,
+          "downloadCount": 16,
+          "playCount": 1921
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79d1",
+        "_id": "5bf0547e6278eb2639fb79d1",
+        "title": "Ep 2 - Vishnu Ke Manushya Avataar Ki Ghoshana",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197546.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488524095000,
+        "play_by": 1568375760136,
+        "url": "https://audioboom.com/posts/5668256.mp3?modified=1488524127&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 24,
+          "shareCount": 38,
+          "downloadCount": 13,
+          "playCount": 865
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79d6",
+        "_id": "5bf0547e6278eb2639fb79d6",
+        "title": "Ep 3 - Dashrath Ka Rishi Shring Se Putreshthi Yagya Karne Ka Aagrah",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197539.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488524047000,
+        "play_by": 1568375760136,
+        "url": "https://audioboom.com/posts/5668255.mp3?modified=1488524079&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 30,
+          "shareCount": 25,
+          "downloadCount": 8,
+          "playCount": 618
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79dc",
+        "_id": "5bf0547e6278eb2639fb79dc",
+        "title": "Ep 4 - Shri Ram Janm",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197487.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523770000,
+        "play_by": 1568375760137,
+        "url": "https://audioboom.com/posts/5668245.mp3?modified=1488523794&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 17,
+          "shareCount": 18,
+          "downloadCount": 10,
+          "playCount": 522
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79e1",
+        "_id": "5bf0547e6278eb2639fb79e1",
+        "title": "Ep 5 - Prabhu Ka Naamkaran",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197473.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523756000,
+        "play_by": 1568375760137,
+        "url": "https://audioboom.com/posts/5668244.mp3?modified=1488523788&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 18,
+          "shareCount": 15,
+          "downloadCount": 9,
+          "playCount": 417
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79e6",
+        "_id": "5bf0547e6278eb2639fb79e6",
+        "title": "Ep 6 - Shri Ram Ki Baal Leela",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197463.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523661000,
+        "play_by": 1568375760137,
+        "url": "https://audioboom.com/posts/5668240.mp3?modified=1488523694&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 27,
+          "shareCount": 22,
+          "downloadCount": 10,
+          "playCount": 367
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79eb",
+        "_id": "5bf0547e6278eb2639fb79eb",
+        "title": "Ep 7 - Shri Ram Ka Viraat Roop",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197451.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523605000,
+        "play_by": 1568375760138,
+        "url": "https://audioboom.com/posts/5668236.mp3?modified=1488523633&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 27,
+          "shareCount": 19,
+          "downloadCount": 9,
+          "playCount": 339
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79f0",
+        "_id": "5bf0547e6278eb2639fb79f0",
+        "title": "Ep 8 - Raakshas Vaatya Ki Mukti",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197439.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523306000,
+        "play_by": 1568375760138,
+        "url": "https://audioboom.com/posts/5668232.mp3?modified=1488523330&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 24,
+          "shareCount": 19,
+          "downloadCount": 7,
+          "playCount": 284
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79f5",
+        "_id": "5bf0547e6278eb2639fb79f5",
+        "title": "Ep 9 - Guru Vashisht Se Vidya Prapti",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197422.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523202000,
+        "play_by": 1568375760138,
+        "url": "https://audioboom.com/posts/5668227.mp3?modified=1488523228&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 24,
+          "shareCount": 18,
+          "downloadCount": 11,
+          "playCount": 256
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb79fa",
+        "_id": "5bf0547e6278eb2639fb79fa",
+        "title": "Ep 10 - Shri Ram  Lakshman  Vishwamitra Van Prasthan",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197399.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523176000,
+        "play_by": 1568375760139,
+        "url": "https://audioboom.com/posts/5668226.mp3?modified=1488523203&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 20,
+          "shareCount": 12,
+          "downloadCount": 5,
+          "playCount": 257
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a01",
+        "_id": "5bf0547e6278eb2639fb7a01",
+        "title": "Ep 11 - Sri Ram Dwara Taadka Ka Vadh",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197364.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523081000,
+        "play_by": 1568375760139,
+        "url": "https://audioboom.com/posts/5668224.mp3?modified=1488523110&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 21,
+          "shareCount": 17,
+          "downloadCount": 11,
+          "playCount": 221
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a06",
+        "_id": "5bf0547e6278eb2639fb7a06",
+        "title": "Ep 12 - Maareech Aur Subahu Ka Pratishodh",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197334.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488523032000,
+        "play_by": 1568375760140,
+        "url": "https://audioboom.com/posts/5668212.mp3?modified=1488523059&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 17,
+          "shareCount": 24,
+          "downloadCount": 12,
+          "playCount": 193
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a0b",
+        "_id": "5bf0547e6278eb2639fb7a0b",
+        "title": "Ep 13 - Yuva Ram Ke Pratham Darshan",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197329.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488522665000,
+        "play_by": 1568375760140,
+        "url": "https://audioboom.com/posts/5668208.mp3?modified=1488522694&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 21,
+          "shareCount": 12,
+          "downloadCount": 10,
+          "playCount": 191
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a10",
+        "_id": "5bf0547e6278eb2639fb7a10",
+        "title": "Ep 14 - Ahilya Ki Katha",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27197308.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488522527000,
+        "play_by": 1568375760140,
+        "url": "https://audioboom.com/posts/5668207.mp3?modified=1488522554&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 21,
+          "shareCount": 19,
+          "downloadCount": 5,
+          "playCount": 205
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a15",
+        "_id": "5bf0547e6278eb2639fb7a15",
+        "title": "Ep 15 - Indra Ka Ahilya Se Chhal",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27179272.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488452253000,
+        "play_by": 1568375760141,
+        "url": "https://audioboom.com/posts/5664146.mp3?modified=1488452279&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 20,
+          "shareCount": 17,
+          "downloadCount": 3,
+          "playCount": 171
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a1a",
+        "_id": "5bf0547e6278eb2639fb7a1a",
+        "title": "Ep 16 - Shri Ram - Ahilya Samwaad",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27179264.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488452178000,
+        "play_by": 1568375760141,
+        "url": "https://audioboom.com/posts/5664143.mp3?modified=1488452206&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 20,
+          "shareCount": 12,
+          "downloadCount": 8,
+          "playCount": 152
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a1f",
+        "_id": "5bf0547e6278eb2639fb7a1f",
+        "title": "Ep 17 - Ram Dwara Ahilya Ka Uddhar",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27179138.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488451530000,
+        "play_by": 1568375760141,
+        "url": "https://audioboom.com/posts/5664127.mp3?modified=1488451560&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 22,
+          "shareCount": 19,
+          "downloadCount": 11,
+          "playCount": 181
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a24",
+        "_id": "5bf0547e6278eb2639fb7a24",
+        "title": "Ep 18 - Ganga Avataran Ki Katha",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27179095.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488451259000,
+        "play_by": 1568375760142,
+        "url": "https://audioboom.com/posts/5664116.mp3?modified=1488451283&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 26,
+          "shareCount": 14,
+          "downloadCount": 6,
+          "playCount": 162
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a29",
+        "_id": "5bf0547e6278eb2639fb7a29",
+        "title": "Ep 19 - Raja Janak Ki Peeda",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27179085.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488451194000,
+        "play_by": 1568375760142,
+        "url": "https://audioboom.com/posts/5664110.mp3?modified=1488451222&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 26,
+          "shareCount": 20,
+          "downloadCount": 10,
+          "playCount": 189
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      },
+      {
+        "id": "5bf0547e6278eb2639fb7a30",
+        "_id": "5bf0547e6278eb2639fb7a30",
+        "title": "Ep 20 - Sita Ka Janm",
+        "description": "",
+        "image_url": "https://images.theabcdn.com/i/27178932.jpg",
+        "language": "hindi",
+        "tags": [
+          "Bhakti"
+        ],
+        "upload_time": 1488450697000,
+        "play_by": 1568375760142,
+        "url": "https://audioboom.com/posts/5664077.mp3?modified=1488450725&source=rss&stitched=1",
+        "format": "mp3",
+        "isNotDownloadable": false,
+        "stats": {
+          "likeCount": 27,
+          "shareCount": 15,
+          "downloadCount": 7,
+          "playCount": 165
+        },
+        "isLiked": false,
+        "isReposted": false,
+        "uploadedBy": {
+          "id": "5c5ac08b6278eb2639e8fe66",
+          "name": "Dose Podcasts",
+          "handle": "dosepodcasts",
+          "isFollowing": false,
+          "followingCount": 4,
+          "gender": "M",
+          "isProfileComplete": false,
+          "isOnboardingComplete": false,
+          "bio": "podcasts",
+          "plays": 167296,
+          "followersCount": 736,
+          "roles": [
+            "BOT",
+            "CALLINS"
+          ],
+          "isNotFollowable": false,
+          "language": [
+            "hi_IN"
+          ],
+          "balance": 200,
+          "badges": [],
+          "badgesEarnedCount": 10,
+          "referralCount": 0,
+          "timestamp": 1526375937000
+        },
+        "heartsCount": 0,
+        "type": "audiofile",
+        "audiogram": {}
+      }
+    ],
+    "next": "/playlist/paginated/5b2a3411bb92ce0014b7c61e?before=1488450697000"
+  },
+  "podcast_url": "https://audioboom.com/channels/4903139.rss",
+  "tags": [
+    "Bhakti"
+  ],
+  "carousel_list": [],
+  "autoScroll": "false",
+  "isSubscribed": false,
+  "createdBy": {
+    "id": "5c5ac08b6278eb2639e8fe66",
+    "name": "Dose Podcasts",
+    "handle": "dosepodcasts",
+    "isFollowing": false,
+    "followingCount": 4,
+    "gender": "M",
+    "isProfileComplete": false,
+    "isOnboardingComplete": false,
+    "bio": "podcasts",
+    "plays": 167296,
+    "followersCount": 736,
+    "roles": [
+      "BOT",
+      "CALLINS"
+    ],
+    "isNotFollowable": false,
+    "language": [
+      "hi_IN"
+    ],
+    "balance": 200,
+    "badges": [],
+    "badgesEarnedCount": 10,
+    "referralCount": 0,
+    "timestamp": 1526375937000
+  },
+  "isLiked": false,
+  "hasNewEpisodes": false
+}

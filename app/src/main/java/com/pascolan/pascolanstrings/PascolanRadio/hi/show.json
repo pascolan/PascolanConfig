@@ -1,78 +1,84 @@
 [
   {
+    "title": "समाचार",
+    "data": [
+      {
+        "n": "BBC Hindi",
+        "p": "https://images.theabcdn.com/i/28013521/300x300/c",
+        "id": "5b1d8bd3e5efbd0014e28b86",
+        "uid": "",
+        "t": 0
+      },
+      {
+        "n": "Puliyabaazi",
+        "p": "https://ssl-static.libsyn.com/p/assets/1/5/7/4/1574da17fc3c958c/Puliya_Baazi_Banner_1400X1400-01.png",
+        "id": "5d3810e32a6f9104c32abe08",
+        "uid": "",
+        "t": 0
+      }
+    ]
+  },
+
+  {
     "title": "मोटिवेशन",
     "data": [
       {
-        "n": "कहानियाँ",
-        "p": "https://yt3.ggpht.com/a/AGF-l79PhMaZ5mjGVmX-rXh_agKxGybGSco4xtL7mw=s288-c-k-c0xffffffff-no-rj-mo",
-        "id": "UCbC0Nnbj7L48-NAzl_55rVQ",
+        "n": "संदीप माहेश्वरी",
+        "p": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1541281/1541281-1564134779952-c592dea0a90ca.jpg",
+        "id": "5d3ad57e4468f6030d4f5f4d",
+        "uid": "",
         "t": 0
       },
       {
-        "n": "सेशन",
-        "p": "https://yt3.ggpht.com/a/AGF-l79HBMn-ld5VDK2CgxcnSkymdpqNzXqu_NWzcA=s176-c-k-c0x00ffffff-no-rj-mo",
-        "id": "UCBqFKDipsnzvJdt6UT0lMIg",
-        "t": 0
-      },
-      {
-        "n": "स्पीच",
-        "p": "https://yt3.ggpht.com/a/AGF-l7_mghY7yVbMdYOLnd06ACM_s4UJigHRM1JuaA=s88-c-k-c0xffffffff-no-rj-mo",
-        "id": "UCZQDF0x18Xe6RZayvod99zA",
+        "n": "Josh Talks",
+        "p": "https://images.theabcdn.com/i/34673897/1400x1400.jpg",
+        "id": "5d380eb72a6f9104c32abe05",
+        "uid": "",
         "t": 0
       }
+
     ]
   },
   {
     "title": "भक्ति",
     "data": [
-      {
-        "n": "हनुमान चालीसा",
-        "p": "https://i10.dainikbhaskar.com/thumbnails/730x548/web2images/www.bhaskar.com/2019/04/18/0521_hanuman_chalisa.jpg",
-        "id": "https://www.youtube.com/watch?v=9R-CcdeJI_8",
-        "t": 1
-      },
+
       {
         "n": "भागवत गीता",
-        "p": "https://i.ytimg.com/vi/GGCbT3XpQp4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB_USitW8N__wMhuz5b5l-AU0cOXw",
-        "id": "https://www.youtube.com/watch?v=ooJEXECLODQ",
-        "t": 1
+        "p": "https://du55c5n4y3f4m.cloudfront.net/Logo_Hindi_gita.jpg",
+        "id": "5b1d8a61e5efbd0014e28b85",
+        "uid": "",
+        "t": 3
       },
       {
-        "n": "महाभारत",
-        "p": "https://i.ytimg.com/an_webp/57zQz12pPmo/mqdefault_6s.webp?du=3000&sqp=CIydsOsF&rs=AOn4CLCnEt5B0dzgz3vXxiQtxpK_0_kcig",
-        "id": "https://www.youtube.com/watch?v=D-1qp9nqRKI",
-        "t": 1
+        "n": "रामायण",
+        "p": "https://du55c5n4y3f4m.cloudfront.net/Ramayan_Audioboom_3_2.jpg",
+        "id": "5b2a3411bb92ce0014b7c61e",
+        "uid": "",
+        "t": 3
+      },
+      {
+        "n": "शिव गाथा",
+        "p": "https://images.theabcdn.com/i/27134680.jpg",
+        "id": "5d3808732a6f9104c32abe01",
+        "uid": "5d3808732a6f9104c32abe01",
+        "t": 3
       }
     ]
   },
   {
-    "title": "विचार विमर्श",
+    "title": "रोमांस",
     "data": [
       {
-        "n": "प्यार रिलेशनशिप",
+        "n": "Kuch-Khat-Maayesha-Ko",
         "p": "https://yt3.ggpht.com/a/AGF-l79q1ciUrSI_nJLW14iHwygpPK-syFMgW5q_LQ=s288-c-k-c0xffffffff-no-rj-mo",
-        "id": "UC7LqfmRTtzz3potF56FFwEg",
-        "t": 0
-      },
-      {
-        "n": "दिमाग",
-        "p": "https://yt3.ggpht.com/a/AGF-l7__iUuowz1TrHCwRWhajtPT3KjAuHRnt2ucKw=s288-c-k-c0xffffffff-no-rj-mo",
-        "id": "UCfqO7nrAoWf8n4tzG8wFQIQ",
-        "t": 0
-      },
-      {
-        "n": "जीवन",
-        "p": "https://yt3.ggpht.com/a/AGF-l795Z4BxZwlXDB0WAj2OQT5vMRGjti0eRIZvJg=s288-c-k-c0xffffffff-no-rj-mo",
-        "id": "UCPCrtpwQ9ORU4sG8rOu0odg",
+        "id": "5d3ad57e4468f6031012121",
+        "uid": "",
         "t": 0
       }
     ]
   },
-  {
-    "title": "",
-    "data": [
-    ]
-  },
+
   {
     "title": "",
     "data": [
